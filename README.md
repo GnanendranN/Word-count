@@ -32,7 +32,9 @@ with open(fname,"r") as f:
 ```
 ### OUTPUT:
 ![exp5code](https://github.com/GnanendranN/Word-count/assets/138955207/27958a91-3b55-46db-a49a-bc6c112afffe)
+
 ![exp5codeoutput](https://github.com/GnanendranN/Word-count/assets/138955207/e8eafd32-f174-4c6f-89aa-2e6bf85c4f9a)
+
 ![exp5output](https://github.com/GnanendranN/Word-count/assets/138955207/11bc73d7-f3b7-4f51-92eb-56ad9149b9c1)
 
 
